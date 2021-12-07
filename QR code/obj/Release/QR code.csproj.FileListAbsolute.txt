@@ -1,0 +1,17 @@
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\QR code.exe.config
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\QR code.exe
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\QR code.pdb
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\IronBarCode.dll
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\IronBarCode.xml
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR_code.Form1.resources
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR_code.Properties.Resources.resources
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.csproj.GenerateResource.cache
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.csproj.CoreCompileInputs.cache
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.exe
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.pdb
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\QR code.exe.manifest
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\QR code.application
+C:\Users\hussain.firzan\source\repos\QR code\QR code\bin\Release\QRCoder.dll
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.exe.manifest
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.application
+C:\Users\hussain.firzan\source\repos\QR code\QR code\obj\Release\QR code.csproj.AssemblyReference.cache
